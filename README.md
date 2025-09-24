@@ -1,11 +1,11 @@
-# 👋 Hi, I'm José Luis (Maxkaizo)
+# Hi, I'm José Luis (Maxkaizo)
 
 I am a **Machine Learning Engineer** focused on building scalable, reproducible, and production-ready **ML & MLOps pipelines**.  
 With over a decade of technical experience, I combine a systems-oriented mindset with business impact to deliver real-world AI solutions.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - [**Milk Price Prediction**](https://github.com/Maxkaizo/milk_price_prediction)  
   End-to-end MLOps pipeline with **Prefect, MLflow, Evidently, and AWS Lambda**. Includes drift monitoring, model registry, CI/CD, and batch + on-demand inference.  
@@ -21,7 +21,7 @@ With over a decade of technical experience, I combine a systems-oriented mindset
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **ML & MLOps:** TensorFlow, XGBoost, MLflow, Hyperopt, Evidently  
 - **Orchestration & Data Engineering:** Prefect, Kestra, dbt, Terraform  
 - **Cloud:** AWS (Lambda, S3, ECR, API Gateway), GCP (BigQuery, Cloud Storage, Looker Studio)  
@@ -29,7 +29,7 @@ With over a decade of technical experience, I combine a systems-oriented mindset
 
 ---
 
-## 🎓 Certifications
+## Certifications
 - AWS Machine Learning Engineer – Associate  
 - Google Cloud Digital Leader  
 - Microsoft Power BI Data Analyst Associate  
@@ -39,6 +39,6 @@ With over a decade of technical experience, I combine a systems-oriented mindset
 
 ---
 
-📫 Always open to collaboration:  
+Always open to collaboration:  
 Let’s connect if you want to tackle complex data challenges, build production ML pipelines, or contribute to open-source AI projects.
 
