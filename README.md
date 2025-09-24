@@ -1,23 +1,44 @@
-I am a Telecommunications Engineer with a solid foundation in infrastructure, data analysis, and network operations, now fully focused on the fields of Artificial Intelligence, Machine Learning, and Cloud Computing. With over a decade of experience bridging technical domains, I bring a systems-oriented mindset and business-driven approach to every project I work on.
+# 👋 Hi, I'm José Luis (Maxkaizo)
 
-Currently, I am leading data analytics and automation efforts in a large-scale government initiative in Mexico, applying tools like Power BI, SQL, and Python to build actionable dashboards and automated KPIs. Previously, I managed network monitoring systems and high-availability VoIP platforms, gaining deep experience in CDR analysis, MySQL, and operational troubleshooting at scale.
+I am a **Machine Learning Engineer** focused on building scalable, reproducible, and production-ready **ML & MLOps pipelines**.  
+With over a decade of technical experience, I combine a systems-oriented mindset with business impact to deliver real-world AI solutions.
 
-To support my transition into AI and Data Science, I’ve earned multiple industry-recognized certifications, including:
+---
 
-AWS Machine Learning Engineer Associate
+## 🚀 Featured Projects
 
-Google Cloud Digital Leader
+- [**Milk Price Prediction**](https://github.com/Maxkaizo/milk_price_prediction)  
+  End-to-end MLOps pipeline with **Prefect, MLflow, Evidently, and AWS Lambda**. Includes drift monitoring, model registry, CI/CD, and batch + on-demand inference.  
 
-Power BI Data Analyst Associate
+- [**Predictive Maintenance**](https://github.com/Maxkaizo/predictive_maintenance)  
+  Applied **feature engineering, ML pipelines, and explainability techniques** (SHAP, PDPs) to anticipate failures in industrial machines.  
 
-ITIL 4 Specialist – Plan, Implement and Control
+- [**Retail Forecasting**](https://github.com/Maxkaizo/forecasting_2025)  
+  Sales forecasting project with **XGBoost and MLflow**, aligned with Kaggle competition datasets and capstone requirements.  
 
-MLOps Zoomcamp Graduate (DataTalks Club)
+- [**Ecobici Data Engineering**](https://github.com/Maxkaizo/ecobici_pipeline)  
+  Complete data pipeline with **Terraform, Kestra, dbt, and GCP** to process public bike-sharing data and publish dashboards in Looker Studio.  
 
-Machine Learning Zoomcamp Graduate (DataTalks Club)
+---
 
-I’ve designed and deployed ML pipelines with TensorFlow, XGBoost, MLflow, and orchestrated end-to-end data workflows using tools such as Kestra, dbt, Terraform, and GCP services (BigQuery, Cloud Storage, Looker Studio). I’m passionate about building scalable, reproducible, and production-ready ML systems aligned with real business needs.
+## 🛠️ Tech Stack
+- **ML & MLOps:** TensorFlow, XGBoost, MLflow, Hyperopt, Evidently  
+- **Orchestration & Data Engineering:** Prefect, Kestra, dbt, Terraform  
+- **Cloud:** AWS (Lambda, S3, ECR, API Gateway), GCP (BigQuery, Cloud Storage, Looker Studio)  
+- **Data & BI:** Python, SQL, Power BI, Tableau  
 
-Beyond technical execution, I’m deeply interested in the ethical and sustainable application of AI, and continuously explore how best practices in IT Service Management (ITIL) can complement MLOps and LLMOps strategies.
+---
 
-On GitHub, I share open projects, notebooks, and frameworks that reflect both my learning journey and my commitment to responsible innovation. I'm always open to collaboration—whether it's solving complex data challenges, building production ML pipelines, or contributing to open-source initiatives.
+## 🎓 Certifications
+- AWS Machine Learning Engineer – Associate  
+- Google Cloud Digital Leader  
+- Microsoft Power BI Data Analyst Associate  
+- ITIL 4 Specialist – Plan, Implement and Control  
+- MLOps Zoomcamp (DataTalks Club)  
+- Machine Learning Zoomcamp (DataTalks Club)  
+
+---
+
+📫 Always open to collaboration:  
+Let’s connect if you want to tackle complex data challenges, build production ML pipelines, or contribute to open-source AI projects.
+
