@@ -10,7 +10,7 @@ With over a decade of technical experience, I combine a systems-oriented mindset
 - [**Milk Price Prediction**](https://github.com/Maxkaizo/milk_price_prediction)  
   End-to-end MLOps pipeline with **Prefect, MLflow, Evidently, and AWS Lambda**. Includes drift monitoring, model registry, CI/CD, and batch + on-demand inference.  
 
-- [**Predictive Maintenance**](https://github.com/Maxkaizo/predictive_maintenance)  
+- [**Predictive Maintenance**](https://github.com/Maxkaizo/pred_maint)  
   Applied **feature engineering, ML pipelines, and explainability techniques** (SHAP, PDPs) to anticipate failures in industrial machines.  
 
 - [**Retail Forecasting**](https://github.com/Maxkaizo/forecasting_2025)  
