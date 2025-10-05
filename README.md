@@ -13,8 +13,8 @@ With over a decade of technical experience, I combine a systems-oriented mindset
 - [**Predictive Maintenance**](https://github.com/Maxkaizo/pred_maint)  
   Applied **feature engineering, ML pipelines, and explainability techniques** (SHAP, PDPs) to anticipate failures in industrial machines.  
 
-- [**Retail Forecasting**](https://github.com/Maxkaizo/forecasting_2025)  
-  Sales forecasting project with **XGBoost and MLflow**, aligned with Kaggle competition datasets and capstone requirements.  
+- [**Brain Cancer Detection**](https://github.com/Maxkaizo/mlzoomcamp_cp1)  
+  Brain Cancer Detection with CNNs.  
 
 - [**Ecobici Data Engineering**](https://github.com/Maxkaizo/ecobici_pipeline)  
   Complete data pipeline with **Terraform, Kestra, dbt, and GCP** to process public bike-sharing data and publish dashboards in Looker Studio.  
