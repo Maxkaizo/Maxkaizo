@@ -16,7 +16,7 @@ With over a decade of technical experience, I combine a systems-oriented mindset
 - [**Brain Cancer Detection**](https://github.com/Maxkaizo/mlzoomcamp_cp1)  
   Brain Cancer Detection with CNNs.  
 
-- [**Ecobici Data Engineering**](https://github.com/Maxkaizo/ecobici_pipeline)  
+- [**Ecobici Data Engineering**](https://github.com/Maxkaizo/cdmx_ecobici_usage)  
   Complete data pipeline with **Terraform, Kestra, dbt, and GCP** to process public bike-sharing data and publish dashboards in Looker Studio.  
 
 ---
